@@ -21,13 +21,13 @@ AWS PlayBook is designed for learners of all levels to explore AWS services whil
 3. User-Friendly Interface: Simple and appealing design for easy navigation.
 4. Hosted on AWS S3: Leverages AWS S3 for efficient and reliable hosting.
 
-**3. Technologies Used**
+**3. Technologies Used:**
 1. HTML5
 2. CSS3
 3. JavaScript
 4. AWS S3 for Hosting
 
-**4. Installation Instructions**
+**4. Installation Instructions:**
 To run this project locally, follow these steps:
 
 1. Clone the repository:
@@ -36,13 +36,13 @@ git clone https://github.com/yourusername/aws-playbook.git
 cd aws-playbook
 3. Open the index.html file in your web browser.
 
-**5. How to Use**
+**5. How to Use:**
 1. Open the home page to start your AWS learning journey.
 2. Click on Learn to access educational content about AWS and its services.
 3. Click on Play Games to choose from Hangman, Matching Game, or Quiz.
 4. Enjoy learning about AWS while playing interactive games!
 
-**6. Game Descriptions**
+**6. Game Descriptions:**
 **1. Hangman:**
 Guess the AWS service or term letter by letter within a limited number of attempts. Score points based on how many attempts you take.
 
