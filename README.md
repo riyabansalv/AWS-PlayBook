@@ -43,13 +43,13 @@ cd aws-playbook
 4. Enjoy learning about AWS while playing interactive games!
 
 **6. Game Descriptions:**
-**1. Hangman:**
+**1. Hangman **
 Guess the AWS service or term letter by letter within a limited number of attempts. Score points based on how many attempts you take.
 
-**2. Matching Game:**
+**2. Matching Game **
 Test your memory by matching AWS services with their descriptions in a fun card-matching format.
 
-**3. Quiz:**
+**3. Quiz **
 Answer multiple-choice questions about AWS services and concepts within a time limit to earn points.
 
 **7. Contributing:**
